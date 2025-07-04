@@ -1,7 +1,9 @@
-title: Benjamin Ahiave
-logo: Assets/images/Profile.jpeg
-extra_javascript: []
+site_name: Benjamin Ahiave
+logo: Assets/images/profile.jpeg
 theme:
- name: pages-theme/modern-1.2.0
+  name: 'pages'
+  custom_dir: 'pages-theme/modern-1.2.0'
 plugins:
- -mkdocs-minify-plugin
+  - mkdocs-minify-plugin
+extra_javascript: []
+
