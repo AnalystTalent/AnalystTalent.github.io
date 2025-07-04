@@ -1,0 +1,6 @@
+title: Benjamin Ahiave
+logo: Assets/images/Profile.jpeg
+extra_javascript: []
+remote_theme:pages-theme/modern-1.2.0
+plugins:
+ -mkdocs-minify-plugin
