@@ -1,5 +1,5 @@
 site_name: Benjamin Ahiave
-logo: Assets/images/profile.jpeg
+logo: Assets/images/Profile.jpeg
 theme:
   name: 'pages'
   custom_dir: 'pages-theme/modern-1.2.0'
